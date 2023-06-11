@@ -14,6 +14,3 @@ local_session = sessionmaker(autocommit=False, autoflush=False, bind=engine)
 sess = local_session()
 
 Base = declarative_base()
-Base = declarative_base()Base = declarative_base()
-Base = declarative_base()
-Base = declarative_base()Base = declarative_base()Base = declarative_base()Base = declarative_base()Base = declarative_base()Base = declarative_base()Base = declarative_base()Base = declarative_base()Base = declarative_base()Base = declarative_base()
